@@ -10,11 +10,9 @@
         }
     ],
     "autoload": {
-        "autoload": {
             "psr-4": {
                 "Getui\\Contact\\": "src/"
             }
-        }
     },
     "require": {}
 }
