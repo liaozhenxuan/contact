@@ -1,0 +1,20 @@
+{
+    "name": "liaozhenxuan/contact",
+    "description": "demo1",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "liaozhenxuan",
+            "email": "liaozhenxuan@dfl.com.cn"
+        }
+    ],
+    "autoload": {
+        "autoload": {
+            "psr-4": {
+                "Getui\\Contact\\": "src/"
+            }
+        }
+    },
+    "require": {}
+}
